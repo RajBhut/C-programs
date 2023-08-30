@@ -8,6 +8,7 @@ int s ,i ,j =1 ,k=1;
     for(i = 0 ; i < s ; i++)
     {
     	for(j=0;j <= i ; j++)
+    	
     	{
     		printf("%d",k);
     		k++;
