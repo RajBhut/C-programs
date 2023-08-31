@@ -9,4 +9,4 @@ scanf("%f %f",&t,&v);
 
 return 0;
 }
-
+		

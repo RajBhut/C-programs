@@ -14,7 +14,7 @@ int main(){
 	printf("Enter g2 \n");
 		scanf("%f",&g2);
 		g2 = (3.14*g2)/180;
-	d = 3963 *acos(sin(l1)*sin(l2) +cos (l1)*cos(l2)*cos(g2-g1));
+	d = 3963 *acos(sin(l1)*sin(l2) +cos(l1)*cos(l2)*cos(g2-g1));
 	printf("Your distence is: %f ",d);
 
 
